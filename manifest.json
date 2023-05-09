@@ -1,0 +1,11 @@
+{
+    "name": "Simple Notes",
+    "description": "Note maker to create simple notes. Can store videos, pictures, text and links!",
+    "version" : "1.0",
+    "icons" :{ "64": "Icons/floppy-disk-solid.svg", "64": "Icons/image-solid.svg","64":"Icons/video-solid.svg","64":"Icons/link-solid.svg","64":"Icons/trash-can-solid.svg"},
+    "manifest_version": 3,
+    "action":{
+        "default_popup":"index.html",
+        "default_icon" : "Icons/floppy-disk-solid.svg"
+    }
+}
